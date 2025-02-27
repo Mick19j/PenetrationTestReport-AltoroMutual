@@ -6,9 +6,9 @@ A professional penetration testing report on Altoro Mutual, an intentionally vul
 This repository contains a professional penetration testing report for **Altoro Mutual**, an intentionally vulnerable web application used for security training and ethical hacking practice. The assessment was conducted to identify security vulnerabilities and demonstrate real-world exploitation techniques in a controlled environment.
 
 ## 🔍 Scope
-- **Target:** [Altoro Mutual](http://testfire.net)  
+- **Target:** [Altoro Mutual](http://altoro.testfire.net)  
 - **Testing Type:** Black-box Penetration Test  
-- **Date of Assessment:** [MM/YYYY]  
+- **Date of Assessment:** [02/2025]  
 - **Tools Used:** Nmap, Burp Suite, SQLmap, Metasploit, Nikto, Gobuster, and more.  
 
 ## 📂 Report Details
@@ -18,8 +18,9 @@ The full penetration testing report includes:
 - **Exploitation Techniques Used**  
 - **Risk Analysis & Business Impact**  
 - **Mitigation Recommendations**  
+[Altoro Mutual Penetration testing report.pdf](https://github.com/user-attachments/files/19009233/Altoro.Mutual.Penetration.testing.report.pdf)
 
-📄 **[Download the Full Report](./Penetration-Test-Altoro-Mutual.pdf)**  
+📄 **[Download the Full Report]([Altoro Mutual Penetration testing report.pdf](https://github.com/user-attachments/files/19009233/Altoro.Mutual.Penetration.testing.report.pdf))**  
 
 ## 🛠 Tools & Techniques
 - **Enumeration:** Nmap, Nikto, Gobuster  
