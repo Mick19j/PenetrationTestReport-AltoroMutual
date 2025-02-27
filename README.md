@@ -1,8 +1,6 @@
-# PenetrationTestReport-AltoroMutual
-A professional penetration testing report on Altoro Mutual, an intentionally vulnerable web application used for ethical hacking practice. This report documents the security assessment, identified vulnerabilities, exploitation techniques, and mitigation recommendations in a structured and professional format.
-
-
 # 🛡️ Penetration Test Report - Altoro Mutual
+
+A professional penetration testing report on Altoro Mutual, an intentionally vulnerable web application used for ethical hacking practice. This report documents the security assessment, identified vulnerabilities, exploitation techniques, and mitigation recommendations in a structured and professional format.
 
 ## 📌 Overview
 This repository contains a professional penetration testing report for **Altoro Mutual**, an intentionally vulnerable web application used for security training and ethical hacking practice. The assessment was conducted to identify security vulnerabilities and demonstrate real-world exploitation techniques in a controlled environment.
