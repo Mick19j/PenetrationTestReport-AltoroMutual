@@ -20,7 +20,6 @@ The full penetration testing report includes:
 - **Mitigation Recommendations**  
 
 📄 **[Download the Full Report]
-
 ([Altoro Mutual Penetration testing report.pdf](https://github.com/user-attachments/files/19009233/Altoro.Mutual.Penetration.testing.report.pdf))**  
 
 ## 🛠 Tools & Techniques
