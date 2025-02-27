@@ -38,5 +38,3 @@ This report is for **educational and demonstration purposes only**. The penetrat
 3. Use the mitigation recommendations to understand security best practices.  
 
 ---
-
-This README ensures your GitHub repository looks **professional and informative**. Now, just upload your **Penetration-Test-Altoro-Mutual.pdf**, and you’re good to go! 🚀 If you need help refining the PDF, let me know.
